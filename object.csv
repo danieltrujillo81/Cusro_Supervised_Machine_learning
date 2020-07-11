@@ -1,0 +1,5 @@
+table,title,dataset,screen
+Library,List of SAS libraries,library,L
+Object,List of tables,object,L
+Location,List of tables and correspondent libraries,location,L
+Property,List of tables properties,property,L
