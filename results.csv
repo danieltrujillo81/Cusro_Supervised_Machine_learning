@@ -1,0 +1,3 @@
+exp_d,sid,feature_id,result_metric_id,method_name,kernel,par_name,level_value
+1,1,1,1,SVM,RADIAL,GAMMA,1
+1,2,1,1,SVM,RADIAL,COST,3

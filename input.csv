@@ -1,0 +1,2 @@
+input_id,title,dataset,outlier_detection_id,bias_correction_id,output_table_id
+1,Insurance data input,INSURANCE_DATA ,1,1,1

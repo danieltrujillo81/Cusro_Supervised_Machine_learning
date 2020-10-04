@@ -1,0 +1,4 @@
+metric_id,sid,metric,min_cutoff,max_cutoff
+1,1,TPR,0.8,0.97
+1,2,TNT,0.75,0.96
+2,1,TPR,0.79,0.89

@@ -1,0 +1,4 @@
+feature_id,output_table_id,output_role,var_name
+1,1,TRAIN1,VarOne
+1,1,TRAIN1,VarTwo
+1,1,TRAIN1,VarThree

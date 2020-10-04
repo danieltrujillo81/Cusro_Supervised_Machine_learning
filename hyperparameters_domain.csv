@@ -1,0 +1,5 @@
+method_name,kernel,par_name,value_type,upper_value,lower_value
+SVM,POLYNOM,DEGREE,I,5,2
+SVM,POLYNOM,COST,C,100000,0
+SVM,RADIAL,GAMMA,C,10,0.05
+SVM,RADIAL,COST,C,100000,0
